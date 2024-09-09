@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">MyQuizApp</string>
+    <string-array name="questions">
+        <item>When did Pakistan gain independence?</item>
+        <item>Who was the first Governor-General of Pakistan?</item>
+        <item>What was the name of the movement for the creation of Pakistan?</item>
+        <item>In which year was the Lahore Resolution passed?</item>
+        <item>Which city served as the first capital of Pakistan?</item>
+        <item>What does the white color in Pakistan\'s flag represent?</item>
+        <item>Who was Pakistan\'s first Prime Minister?</item>
+        <item>When was the first constitution of Pakistan adopted?</item>
+        <item>Which language was declared the national language of Pakistan in 1948?</item>
+        <item>When did East Pakistan become Bangladesh?</item>
+        <item>Who was the founder of Pakistan?</item>
+        <item>Which province was created as a result of the Indus Waters Treaty?</item>
+        <item>What is the national flower of Pakistan?</item>
+        <item>When was the Kargil War fought between Pakistan and India?</item>
+        <item>Who was the first female Prime Minister of Pakistan?</item>
+        <item>When was the Pakistan-India war over Kashmir fought?</item>
+        <item>Which city is known as the "City of Lights" in Pakistan?</item>
+        <item>What is the national sport of Pakistan?</item>
+        <item>When was the Islamic Republic of Pakistan declared?</item>
+        <item>Who was the first President of Pakistan?</item>
+    </string-array>
+
+    <string-array name="all_choices">
+        <item>14 August 1947,11 August 1947,14 August 1956,17 August 1947</item>
+        <item>Allama Iqbal,Quaid-e-Azam Muhammad Ali Jinnah,Liaquat Ali Khan,Ayub Khan</item>
+        <item>Pakistan Movement,Independence Movement,Muslim League Movement,Quit India Movement</item>
+        <item>1930,1940,1942,1947</item>
+        <item>Lahore,Karachi,Islamabad,Rawalpindi</item>
+        <item>Muslim population,Minorities,Peace,Freedom</item>
+        <item>Quaid-e-Azam,Liaquat Ali Khan,Ayub Khan,Iskander Mirza</item>
+        <item>1954,1956,1962,1973</item>
+        <item>Urdu,Punjabi,Bengali,English</item>
+        <item>1965,1971,1981,1999</item>
+        <item>Liaquat Ali Khan,Allama Iqbal,Quaid-e-Azam Muhammad Ali Jinnah,Sir Syed Ahmed Khan</item>
+        <item>Khyber Pakhtunkhwa,Punjab,Sindh,None</item>
+        <item>Jasmine,Rose,Sunflower,Lotus</item>
+        <item>1999,2001,1997,1989</item>
+        <item>Benazir Bhutto,Fatima Jinnah,Hina Rabbani Khar,Asma Jahangir</item>
+        <item>1947,1948,1949,1947 to 48</item>
+        <item>Islamabad,Lahore,Karachi,Peshawar</item>
+        <item>Hockey,Cricket,Football,Squash</item>
+        <item>1947,1956,1962,1973</item>
+        <item>Iskander Mirza,Ayub Khan,Liaquat Ali Khan,Zulfiqar Ali Bhutto</item>
+    </string-array>
+
+
+    <integer-array name="answer_indices">
+        <item>0</item> <!--1-->
+        <item>1</item> <!--2-->
+        <item>0</item> <!--3-->
+        <item>1</item> <!--4-->
+        <item>1</item> <!--5-->
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>3</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
+
+    <string name="score">Score: %1$d</string>
+    <string name="question_num">Question #%1$d</string>
+
+</resources>
